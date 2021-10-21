@@ -1,10 +1,10 @@
-#!/usr/bin/env python
+# !/usr/bin/env python
 # encoding: utf-8
 """
-# @Time    : 2021/10/21 9:50 下午
+# @Time    : 2021/10/21 10:00 下午
 # @Author  : pangliangliang
 # @Project : PycharmProjects
-# @File    : 12_hm_类属性.py
+# @File    : hm_14_属性获取机制.py
 # @Software: PyCharm
 """
 
@@ -26,4 +26,4 @@ tool2 = Tool("榔头")
 tool3 = Tool("铁锹")
 
 # 知道使用Tool类创建了多少个对象?
-print("现在创建了 %d 个工具" % Tool.count)
+print("工具对象总数是 %d 个" % tool1.count)

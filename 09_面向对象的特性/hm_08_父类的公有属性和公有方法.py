@@ -4,7 +4,7 @@
 # @Time    : 2021/10/21 2:19 下午
 # @Author  : pangliangliang
 # @Project : PycharmProjects
-# @File    : 08_hm_父类的公有属性和公有方法.py
+# @File    : hm_08_父类的公有属性和公有方法.py
 # @Software: PyCharm
 """
 

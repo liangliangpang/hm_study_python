@@ -4,7 +4,7 @@
 # @Time    : 2021/10/20 11:15 下午
 # @Author  : pangliangliang
 # @Project : PycharmProjects
-# @File    : 07_hm_父类的私有属性和私有方法.py
+# @File    : hm_07_父类的私有属性和私有方法.py
 # @Software: PyCharm
 """
 
