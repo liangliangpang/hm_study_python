@@ -4,7 +4,7 @@
 # @Time    : 2021/10/19 9:29 下午
 # @Author  : pangliangliang
 # @Project : PycharmProjects
-# @File    : 01_hm_不使用继承开发的动物和狗.py
+# @File    : hm_01_不使用继承开发的动物和狗.py
 # @Software: PyCharm
 """
 

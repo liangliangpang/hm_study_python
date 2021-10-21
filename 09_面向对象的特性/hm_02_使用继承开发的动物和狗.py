@@ -4,7 +4,7 @@
 # @Time    : 2021/10/19 10:49 下午
 # @Author  : pangliangliang
 # @Project : PycharmProjects
-# @File    : 02_hm_使用继承开发的动物和狗.py
+# @File    : hm_02_使用继承开发的动物和狗.py
 # @Software: PyCharm
 """
 

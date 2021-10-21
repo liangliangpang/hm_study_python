@@ -4,7 +4,7 @@
 # @Time    : 2021/10/20 8:57 下午
 # @Author  : pangliangliang
 # @Project : PycharmProjects
-# @File    : 05_hm_覆盖父类的方法.py
+# @File    : hm_05_覆盖父类的方法.py
 # @Software: PyCharm
 """
 

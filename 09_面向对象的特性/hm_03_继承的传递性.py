@@ -4,7 +4,7 @@
 # @Time    : 2021/10/20 10:49 上午
 # @Author  : pangliangliang
 # @Project : PycharmProjects
-# @File    : 03_hm_继承的传递性.py
+# @File    : hm_03_继承的传递性.py
 # @Software: PyCharm
 """
 

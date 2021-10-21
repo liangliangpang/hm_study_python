@@ -4,7 +4,7 @@
 # @Time    : 2021/10/21 2:54 下午
 # @Author  : pangliangliang
 # @Project : PycharmProjects
-# @File    : 10_hm_多继承的注意事项.py
+# @File    : hm_10_多继承的注意事项.py
 # @Software: PyCharm
 """
 
